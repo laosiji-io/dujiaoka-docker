@@ -2,7 +2,7 @@
 
 ## 1. cloudfare 绑定域名
 
-- 假设 主站域名为     www.domain.com
+- 假设 主站域名为     faka.domain.com
 - 假设 epusdt域名    pay.domain.com
 - 假设 服务器ip      127.0.0.1
 - 绑定两个 A 记录 同时点亮小云朵
@@ -97,7 +97,7 @@ TG_USER_ID="30251245412"
 
 ```
 
-### 6. 修改配置文件 config.env
+## 6. 修改配置文件 config.env
 
 > 主要修改下面的几个地方
 
@@ -112,8 +112,24 @@ TG_USER_ID="30251245412"
 
 > 这里我是在 https://1password.com/password-generator/ 随机生成的32位
 
+## 7. 访问网站
 
-## epusdt 支付后台设置
+> 网站首页
+```shell
+https://faka.domain.com
+```
+
+> 网站后台 (如果没改 DUJIANKA_ADMIN 的默认是 admin)
+```shell
+https://faka.domain.com/admin
+```
+
+> 后台账号密码均默认为
+```shell
+admin
+```
+
+## 8. epusdt 支付后台设置
 
 ```textfile
 商户id填写:
