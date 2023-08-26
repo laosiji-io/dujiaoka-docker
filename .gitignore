@@ -1,0 +1,9 @@
+
+.DS_Store
+.idea
+
+docker-compose.yml
+
+config.env
+
+.gitattributes
