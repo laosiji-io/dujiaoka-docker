@@ -10,7 +10,7 @@
 ## 2. 申请个 telegram 机器人
 
 - 根据下面的对话框获得 机器人token
-- 1000000000:AAHy18129aHDH9jasd912Hd912jja8nxHEE
+- token前半段数字:token后半段
 
 ```textile
 
@@ -39,7 +39,7 @@
 
 @BotFather回复
 
-  1000000000:AAHy18129aHDH9jasd912Hd912jja8nxHEE
+  token前半段数字:token后半段
 
 ```
 
@@ -91,7 +91,7 @@ EPUSDT_DOMAIN_SCHEME="https"
 EPUSDT_DOMAIN="pay.domain.com"
 EPUSDT_API_AUTH_TOKEN="uhtK1KgCdqpvMoQ0aLj3P7b179Mu846t"
 
-TG_BOT_TOKEN="1000000000:AAHy18129aHDH9jasd912Hd912jja8nxHEE"
+TG_BOT_TOKEN="token前半段数字:token后半段"
 TG_USER_ID="30251245412"
 # epusdt 相关配置
 
