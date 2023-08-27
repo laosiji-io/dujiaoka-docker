@@ -102,12 +102,13 @@ TG_USER_ID="30251245412"
 > 主要修改下面的几个地方
 
 ```shell
-- DUJIAOKA_DOMAIN="www.domain.com"
-- DUJIANKA_ADMIN="admin"
-- EPUSDT_DOMAIN="pay.domain.com"
-- TG_BOT_TOKEN="上面第2步获取的telegram机器人token"
-- TG_USER_ID="上面第3步获取的telegram用户id(非机器人id)"
-- EPUSDT_API_AUTH_TOKEN="自己随机一段字符串"
+DUJIAOKA_DOMAIN="www.domain.com"
+DUJIANKA_ADMIN="admin"
+EPUSDT_DOMAIN="pay.domain.com"
+MYSQL_PASSWORD="数据库密码"
+TG_BOT_TOKEN="上面第2步获取的telegram机器人token"
+TG_USER_ID="上面第3步获取的telegram用户id(非机器人id)"
+EPUSDT_API_AUTH_TOKEN="自己随机一段字符串"
 ```
 
 > 这里我是在 https://1password.com/password-generator/ 随机生成的32位
