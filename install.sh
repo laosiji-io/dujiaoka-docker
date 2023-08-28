@@ -215,8 +215,7 @@ init() {
 downloadDujiaokaDocker() {
     # 下载 dujiaoka-docker
     cd ${DUJIAOKA_PARENT_DIR}
-    # git clone https://github.com/mangozz123/dujiaoka-docker.git
-    git clone git@github.com:mangozz123/dujiaoka-docker.git
+    git clone https://github.com/laosiji-io/dujiaoka-docker.git
 
 }
 
